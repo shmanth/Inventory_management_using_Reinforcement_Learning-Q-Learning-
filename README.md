@@ -5,3 +5,4 @@ there are basically two code files:
 Environment (MDP) code
 Agent's Q-Learning code
 The environment is imported as a class in the agent's code and the agent interacts with the environment by calling the functions of the environment class.
+The code is written just for practice and only runs for few episodes. The convergence happens at 15 million episodes. The 15 million epsiode code along with testing wil be uploaded soon
